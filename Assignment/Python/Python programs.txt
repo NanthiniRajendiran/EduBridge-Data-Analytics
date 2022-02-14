@@ -1,0 +1,241 @@
+# To find the root of given Quadratic Equation
+
+
+```python
+import cmath
+a=int(input("enter the val of a= "))
+b=int(input("enter the val of b="))
+c=int(input("enter the val of c="))
+d=(b**2)-(4*a*c)
+sol1=(-b-cmath.sqrt(d))/(2*a)
+sol2=(-b+cmath.sqrt(d))/(2*a)
+print('the roots are{0}and{1}'.format(sol1,sol2))
+
+```
+
+    enter the val of a= 4
+    enter the val of b=3
+    enter the val of c=5
+    the roots are(-0.375-1.0532687216470449j)and(-0.375+1.0532687216470449j)
+    
+
+# Prime or not
+
+
+```python
+number = int(input("enter the value"))
+if number > 1:
+    for i in range (2, number):
+        if(number % i) == 0:
+            print(number ,"is not a prime number")
+            break
+            
+        else:
+            print(number, "is a prime number")
+else:
+    print(number , "is not a prime number")
+```
+
+#     Fibonacci series
+
+
+```python
+
+
+nterms = int(input("How many terms? "))
+
+
+n1, n2 = 0, 1
+count = 0
+
+
+if nterms <= 0:
+   print("Please enter a positive integer")
+
+elif nterms == 1:
+   print("Fibonacci sequence upto",nterms,":")
+   print(n1)
+
+else:
+   print("Fibonacci sequence:")
+   while count < nterms:
+       print(n1)
+       nth = n1 + n2
+    
+       n1 = n2
+       n2 = nth
+       count += 1
+```
+
+    How many terms? 7
+    Fibonacci sequence:
+    0
+    1
+    1
+    2
+    3
+    5
+    8
+    
+
+# armstrong number
+
+
+```python
+num = int(input("Enter a number: "))
+
+
+sum = 0
+
+
+temp = num
+while temp > 0:
+   digit = temp % 10
+   sum += digit ** 3
+   temp //= 10
+
+
+if num == sum:
+   print(num,"is an Armstrong number")
+else:
+   print(num,"is not an Armstrong number")
+```
+
+    Enter a number: 78
+    78 is not an Armstrong number
+    
+
+# The pyramid
+
+
+```python
+ 
+def pypart(n):
+     
+    
+    for i in range(0, n):
+     
+        for j in range(0, i+1):
+         
+            
+            print("* ",end="")
+      
+        
+        print("\r")
+ 
+
+n = 5
+pypart(n)
+
+```
+
+    * 
+    * * 
+    * * * 
+    * * * * 
+    * * * * * 
+
+
+# Strong number
+
+
+```python
+sum=0  
+  
+num=int(input("Enter a number:"))  
+  
+temp=num  
+while(num):  
+    
+    i=1  
+ 
+    fact=1  
+    rem=num%10  
+    while(i<=rem):  
+        fact=fact*i     
+        i=i+1  
+    sum=sum+fact  
+    num=num//10  
+if(sum==temp):  
+    print("Given number is a strong number")  
+else:  
+    print("Given number is not a strong number")  
+```
+
+    Enter a number:78
+    Given number is not a strong number
+    
+
+# Perfect number or not
+
+
+```python
+Number = int(input(" Please Enter any Number: "))
+Sum = 0
+for i in range(1, Number):
+    if(Number % i == 0):
+        Sum = Sum + i
+if (Sum == Number):
+    print(" %d is a Perfect Number" %Number)
+else:
+    print(" %d is not a Perfect Number" %Number)
+```
+
+     Please Enter any Number: 76
+     76 is not a Perfect Number
+    
+
+# Palidrome or not
+
+
+```python
+def isPalindrome(s):
+    return s == s[::-1]
+s = "malayalam"
+ans = isPalindrome(s)
+ 
+if ans:
+    print("Yes")
+else:
+    print("No")
+```
+
+    Yes
+    
+
+# Factors of a number
+
+
+```python
+def print_factors(x):
+   print("The factors of",x,"are:")
+   for i in range(1, x + 1):
+       if x % i == 0:
+           print(i)
+
+num = 320
+
+print_factors(num)
+```
+
+    The factors of 320 are:
+    1
+    2
+    4
+    5
+    8
+    10
+    16
+    20
+    32
+    40
+    64
+    80
+    160
+    320
+    
+
+
+```python
+
+```
