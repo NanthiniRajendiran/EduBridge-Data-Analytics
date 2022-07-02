@@ -26,5 +26,7 @@
        2.
        3.
 ## Connect with me on these platforms
-     
-   
+      
+ * LinkedIn : <https://www.linkedin.com/in/nanthini-rajendiran>
+ 
+ * Gmail : <nanthiniapril98@gmail.com>
