@@ -12,16 +12,16 @@
    * Statistics
    
 ## Contents
-    ### Exploratary Data Analysis in Python
+   ### Exploratary Data Analysis in Python ###
        1.Covid Analysis
        2.
        3.
        4.
-    ### Exploratary Data Analysis in R
+   ### Exploratary Data Analysis in R ###
        1.
-    ### Exploratary Data Analysis in Machine Learning
+   ### Exploratary Data Analysis in Machine Learning ###
        1.
-    ### Simple Projects
+   ### Simple Projects ###
        1.
        2.
        3.
