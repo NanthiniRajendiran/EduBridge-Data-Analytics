@@ -15,16 +15,7 @@
    ### Exploratary Data Analysis in Python ###
        1.Covid Analysis
        2.IPL Analysis
-       3.
-       4.
-   ### Exploratary Data Analysis in R ###
-       1.
-   ### Exploratary Data Analysis in Machine Learning ###
-       1.
-   ### Simple Projects ###
-       1.
-       2.
-       3.
+  
 ## Connect with me on these platforms
       
  * LinkedIn : <https://www.linkedin.com/in/nanthini-rajendiran>
