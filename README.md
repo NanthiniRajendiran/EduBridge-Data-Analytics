@@ -13,7 +13,7 @@
    
 ## Contents
    ### Exploratary Data Analysis in Python ###
-       1.<Covid Analysis>
+       1.< Covid Analysis >
        2.
        3.
        4.
