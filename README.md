@@ -14,7 +14,7 @@
 ## Contents
    ### Exploratary Data Analysis in Python ###
        1.Covid Analysis
-       2.
+       2.IPL Analysis
        3.
        4.
    ### Exploratary Data Analysis in R ###
