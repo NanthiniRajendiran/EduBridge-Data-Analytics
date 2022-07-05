@@ -19,6 +19,13 @@
   ### Exploratary Data Analysis in R ###
        1.Super Store Data Analysis
        
+  ### Minor Project ###
+       1.Calculator (Python)
+       2.Hospital Management (Python)
+       3.Student Loan Data Analysis (Excel)
+       4.Simple Game Developement (Python)
+
+
 ## Connect with me on these platforms
       
  * LinkedIn : <https://www.linkedin.com/in/nanthini-rajendiran>
