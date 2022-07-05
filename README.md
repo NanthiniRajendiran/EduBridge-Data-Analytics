@@ -17,7 +17,7 @@
        2.IPL Data Analysis
   
   ### Exploratary Data Analysis in R ###
-       1.Super Store Data Analysis
+       1.Superstore Data Analysis
        
   ### Minor Project ###
        1.Calculator (Python)
