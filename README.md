@@ -13,9 +13,12 @@
    
 ## Contents
    ### Exploratary Data Analysis in Python ###
-       1.Covid Analysis
-       2.IPL Analysis
+       1.Covid Data Analysis
+       2.IPL Data Analysis
   
+  ### Exploratary Data Analysis in R ###
+       1.Super Store Data Analysis
+       
 ## Connect with me on these platforms
       
  * LinkedIn : <https://www.linkedin.com/in/nanthini-rajendiran>
